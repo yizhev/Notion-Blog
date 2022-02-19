@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: '青年小哲',
-  domain: 'blog.yizhe.me',
+  domain: 'https://yizhev.notion.site/816eb48c9061437ca2ab07dad7ca981f',
   author: '青年小哲',
 
   // open graph metadata (optional)
